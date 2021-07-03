@@ -5,7 +5,8 @@ With the input is a document corpus, this program will convert them into csv_fil
 To set up the environment and use the packages, libraries, you need to type the following command:
 
 git clone https://github.com/hanahh080601/hanahh080601.github.io.git
-
+Extract Train_Full.rar zip into a folder named Train_Full
+Create a folder named CSV in the project
 ```
 cd NLP_test
 pip install -r requirements.txt
